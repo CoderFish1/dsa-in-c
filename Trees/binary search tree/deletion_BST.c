@@ -93,7 +93,7 @@ int main()
 
     printf("\n");
 
-    printf("After deletion :-\n")-;
+    printf("After deletion :-\n");
     deleteNode_BST(p1,4);
     inorderTraversal(p1);
 
